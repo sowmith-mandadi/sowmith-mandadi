@@ -1,24 +1,17 @@
-# Hey, I'm Sowmith 👋
+# Hey, I’m Sowmith 👋
 
-I'm an AI engineer building agentic systems that automate real workflows.
+I’m an AI engineer with a full-stack and data-engineering background. I build agentic tools and interactive software, with an interest in how AI can help people research, learn and create.
 
-I’m especially interested in multi-agent orchestration, LLM evaluation, and production AI systems that are reliable, useful, and easy to work with.
+## Selected projects
 
-## A few things I’ve built
+- Cortex — a browser-extension prototype exploring AI workflows, memory and MCP tool integrations
+- Meridian — agentic data workflows and governed AI interfaces
+- Catan Online — exploring game development with AI coding agents through a TypeScript board-game project
 
-- Agentic SDLC workflows for test strategy, PR review, and release checks
-- Batch GenAI pipelines for large-scale transcript processing
-- Enterprise RAG systems with citations and guardrails
-- Serverless ML and AI infrastructure on AWS
+## Currently exploring
 
-## I work with
+- Research agents: tool use, context, memory and evaluation
+- Interactive explanations for JEE questions and concepts
+- MCP apps that connect conversation with visual, interactive tools
 
-Python · TypeScript · React · Next.js · LangChain · DSPy · AWS · GCP · Docker · Kubernetes · Terraform
-
-## Exploring
-
-Multi-agent systems · GraphRAG · LLM evals
-
-📫 hello@sowmith.dev
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sowmithmandadi/) &nbsp; [<img src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" />](https://sowmith.dev)
+[Portfolio](https://sowmith.dev) · [LinkedIn](https://www.linkedin.com/in/sowmithmandadi/)
