@@ -11,7 +11,7 @@ I’m an AI engineer with a full-stack and data-engineering background. I build 
 ## Currently exploring
 
 - Research agents: tool use, context, memory and evaluation
-- Interactive explanations for JEE questions and concepts
+- Interactive learning experiences through simulations and visual explanations
 - MCP apps that connect conversation with visual, interactive tools
 
 [Portfolio](https://sowmith.dev) · [LinkedIn](https://www.linkedin.com/in/sowmithmandadi/)
